@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Payal Kapdane</h1>
+<div align="center"><img src="https://cdn.vectorstock.com/i/preview-1x/65/13/trading-machine-learning-vector-43576513.webp\main\08-pa">  
+
 <h3 align="center">Hey! Nice to See You, Welcome to my page!</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=08-pa&label=Profile%20views&color=0e75b6&style=flat" alt="08-pa" /> </p>
 
@@ -14,3 +17,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=08-pa&show_icons=true&locale=en" alt="08-pa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=08-pa&" alt="08-pa" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=08-pa&limit=5&theme=flat&combine_all_yearly_contributions=true)
